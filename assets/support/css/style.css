@@ -1,0 +1,71 @@
+@charset 'utf-8';
+/* CSS Document */
+body{color:#172734;font-size:16px;font-family:'Open Sans', sans-serif;}
+header{padding:0 10px;width:100%;background-color:#f1f1f1;}
+.nav-menu{margin-left:250px;text-align:right;vertical-align:middle;}
+.hdrLogo{text-align:center;}
+.hdrrLeft{display:inline-block;vertical-align:middle;margin-top:16px;}
+.hdrrLeft ul li a:hover{color:#bbb }
+.hdrrLeft ul li a, .hdrrLeft ul li span{color:#000;display:block;font-size:16px;padding:18px 10px;text-decoration:none;}
+.hdrrLeft ul li{display:inline-block;vertical-align:middle;position:relative;}
+.hdrrLeft ul li a i{font-size:28px;}
+.slider .container-fluid{padding:0;}
+.free-speech{background-color:#eee;font-size:36px;padding:20px 0;text-align:center;letter-spacing:-1.1px;line-height:1.3;}
+.free-speech p{margin:0 }
+.main-sec{text-align:center;}
+.talk{padding:45px 0;}
+.ranked{padding:35px 0;}
+.main-heading span{border-bottom:2px solid #b5b5b5;border-top:2px solid #b5b5b5;font-size:60px;line-height:1;color:#00aff2;position:relative;display:inline-block;padding:13px 0;font-family:'MyriadProRegular';letter-spacing:-1.5px;}
+.main-heading span:before{content:'';display:inline-block;width:55px;height:55px;position:absolute;right:-70px;top:50%;margin-top:-29px;}
+.talked:before{background:url(../images/shape-1.png) center center no-repeat;}
+.rank-text:before{background:url(../images/globe.png) center center no-repeat;}
+.reviews:before{background:url(../images/troffy.png) center center no-repeat;}
+.feeds{padding:35px 0;}
+.form-support textarea {margin: 10px 0;}
+.ranked em{color:#fff;font-style:normal;}
+.mid-img{padding:30px 0;}
+img{max-width:100% }
+.ranked p{margin:0;font-size:24px;color:#fff;letter-spacing:-1px;}
+.scl-media{padding:60px 0;}
+.sngl-cnt h3{letter-spacing:-.5px;margin:0 0 10px;}
+.container{width:auto;max-width:1230px }
+.sngl-cnt p{font-size:14px;margin:0;}
+.sngl-cnt{padding:15px;margin:15px 0;background:#f4f4f4;text-align:left;}
+.para-basic{margin:0 15px;font-weight:100;font-size:28px;text-align:left;letter-spacing:-.8px;color:#565656;line-height:1.4;}
+.slider{position:relative;background:#000;background-size:cover;padding:15px 0px;}
+.left-img{float:left;width:35%;}
+.bnr-text{text-align:center;}
+.ranked{background:#00081f url(../images/ranked-bg.jpg) center center no-repeat;background-size:cover;}
+.bnr-text h1{font-size:40px;font-weight:700;margin:0; text-transform: uppercase;}
+.bnr-text{color:#ffe93e;padding:20px 0 40px;}
+.bnr-text h1 span{display:block;}
+.ratng-rvws .main-heading{margin-bottom:50px;}
+.bnr-text h2{font-size:48px;margin:20px 0 0;}
+.free-speech .container{width:auto;max-width:1400px;}
+.main-sec ul{padding:40px 0;margin:0;}
+.main-sec ul li{display:inline-block;padding:10px;}
+.download-app{padding:30px 0;}
+footer{background:#000;padding:10px 0;color:#fff;text-align:center;font-size:13px;}
+footer ul{padding:0;margin:0;}
+footer ul li{display:block;color:#fff;margin:5px 0;}
+.main-heading{padding:0 70px;}
+footer ul li a{color:#fff;}
+footer ul li a:hover{color:#ddd }
+.rigth-social li .fa{font-size:30px }
+.form-support .container{width:100%;max-width:750px;}
+.form-support{padding:35px 0px;}
+.form-support input{margin:10px 0;padding:5px 15px;height:42px;}
+.form-support h2{margin:10px 0;font-weight:500;font-size:26px;}
+.form-support .fs-inner{background:#f1f1f1;padding:25px 30px;border-radius:15px;}
+.form-support .support-btn{padding:12px 50px;background:#000 !important;color:#fff;margin:25px 0 15px;border:0;font-size:16px;outline:none !important;}
+textarea{resize:none;}
+.form-support h2{margin:10px 0 20px;font-weight:600;font-size:25px;}
+.bnr-text p{margin:5px 0 0;font-size:22px; letter-spacing: .5px}
+.form-support .support-btn:hover{background:#222 !important;}
+
+
+.form-support input:hover, 
+.form-support input:focus, 
+.form-support textarea:hover, 
+.form-support textarea:active, 
+.form-support textarea:focus {border-color: #bbb; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}

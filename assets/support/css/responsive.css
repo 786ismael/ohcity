@@ -1,0 +1,32 @@
+@media screen and (max-width: 991px) {
+	.rigth-social { margin-top: 30px;}
+	.feeds img { display: block; margin: 15px auto }
+	.para-basic { font-size: 20px;}
+	.main-heading span { font-size: 38px;}
+	.bnr-text h1 { font-size: 62px;}
+	.free-speech { font-size: 25px;}
+	.form-support { padding: 45px 0px;}
+	.bnr-text h1 { font-size: 45px;}
+	.bnr-text p { font-size: 20px;}
+	.bnr-text { padding: 20px 0 35px;}
+	
+}
+	
+
+@media screen and (max-width: 767px) {
+	.form-support { padding: 15px 0px;}
+	.form-support .fs-inner { padding: 15px 20px;}
+	.bnr-text h1 { font-size: 40px;}
+	.form-support h2 { margin: 15px 0; font-size: 22px;}
+	.bnr-text p { font-size: 18px;}
+	.form-support input { height: 38px;}
+}
+
+@media screen and (max-width: 680px) {
+	.bnr-text h1 {font-size: 32px;}
+	.form-support h2 { font-size: 18px;}
+	.form-support .fs-inner { padding: 15px;}
+	.bnr-text { padding: 20px 0 30px;}
+	.form-support input, .form-support select { font-size: 13px }
+
+}
